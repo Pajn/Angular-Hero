@@ -1,8 +1,7 @@
 {
   "name": "Angular-Hero",
   "main": [
-    "./angular-hero.js",
-    "./angular-hero.css"
+    "./angular-hero.js"
   ],
   "version": "0.0.3",
   "authors": [
